@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Pangolin', cursive, Arial, Helvetica, sans-serif;
+}
+
+#container {
+    text-align: center;
+    height: 100vh;
+    background-image: url(./images/khaleesi_vossi_by_ertacaltinoz_d9qz5a6-350t.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#header{
+    margin: auto;
+    height: 60%;
+    width: 70%;
+    background-color: rgba(234, 245, 245, 0.459);
+}
+
+#trad {
+    padding: 5%;
+    font-size: 2em;
+}
+
+#txt {
+    font-size: 2em;
+    margin-top: 5%;
+    height: 10%;
+    width: 70%;
+}
+
+#button {
+    margin-top: 7%;
+    padding: 3% 10%;
+    font-size: 1.5em;
+    border-radius: 2em;
+    background-color: rgba(255, 193, 78, 0.808);
+}
